@@ -1,0 +1,27 @@
+{
+  "name": "JSON",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "share": "npm version patch && git push && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timelaps/JSON.git"
+  },
+  "keywords": [],
+  "author": "Michael McLaughlin <michael@gospecless.com> (https://gospecless.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timelaps/JSON/issues"
+  },
+  "homepage": "https://github.com/timelaps/JSON#readme",
+  "devDependencies": {
+    "@timelaps/batterie": "^1.0.70"
+  },
+  "dependencies": {
+    "@timelaps/is": "^1.0.1"
+  }
+}
