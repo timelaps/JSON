@@ -12,16 +12,16 @@
     "url": "git+https://github.com/timelaps/JSON.git"
   },
   "keywords": [],
-  "author": "Michael McLaughlin <michael@gospecless.com> (https://gospecless.com)",
+  "author": "Michael McLaughlin <michael.j.mclaughlin20@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/timelaps/JSON/issues"
   },
   "homepage": "https://github.com/timelaps/JSON#readme",
   "devDependencies": {
-    "@timelaps/batterie": "^1.0.70"
+    "@timelaps/batterie": "^1.0.73"
   },
   "dependencies": {
-    "@timelaps/is": "^1.0.1"
+    "@timelaps/is": "^1.0.13"
   }
 }
